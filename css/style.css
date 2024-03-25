@@ -701,7 +701,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 /*--//flexisel--*/
 
 .rslides li::before{
-	content: 'Video Games';
+	/*content: 'Video Games';
 	width: fit-content;
 	height: fit-content;
 	padding: 10px 40px;
@@ -715,11 +715,11 @@ ul.callbacks_tabs.callbacks1_tabs {
 
 	position: absolute;
 	top: 200px;
-	left: 200px;
+	left: 200px;*/
 }
 
 .rslides li::before(){
-	content: 'Strategic';
+	/*content: 'Strategic';
 	width: fit-content;
 	height: fit-content;
 	padding: 10px 40px;
@@ -733,11 +733,11 @@ ul.callbacks_tabs.callbacks1_tabs {
 
 	position: absolute;
 	top: 400px;
-	left: 200px;
+	left: 200px;*/
 }
 
 .rslides li::after{
-	content: 'Endless Fun';
+	/*content: 'Endless Fun';
 	width: fit-content;
 	height: fit-content;
 	padding: 10px 40px;
@@ -751,7 +751,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 
 	position: absolute;
 	bottom: 200px;
-	right: 300px;
+	right: 300px;*/
 }
 /*--//trend--*/
 
